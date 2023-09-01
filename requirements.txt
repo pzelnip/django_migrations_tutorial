@@ -1,1 +1,1 @@
-Django==3.2.20   # same as z/z
+Django==3.2.20
